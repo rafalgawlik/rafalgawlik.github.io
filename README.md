@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/rafalgawlik/rafalgawlik.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rafalgawlik/rafalgawlik.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Jekyll Garden v 0.4!
 ![Slide 4_3 - 1 (1)](https://user-images.githubusercontent.com/1788677/169704768-65c32d93-7884-47fa-b98c-bc8329acc6a7.png)
 
