@@ -1,6 +1,6 @@
 ---
 title: Generate city map by python command
-feed: show
+feed: hide
 date : 29-10-2023
 ---
 
