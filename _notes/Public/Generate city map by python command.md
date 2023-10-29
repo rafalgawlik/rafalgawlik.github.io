@@ -58,3 +58,4 @@ fig, ax = ox.plot_footprints(
     close=True
     )
 Image(fp, height=size, width=size)
+```
