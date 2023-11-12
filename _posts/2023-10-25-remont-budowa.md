@@ -79,7 +79,7 @@ Kurs karton gipsy to wiedza i techniki mające praktyczne zastosowanie w codzien
 
 **Jak zrobić meble kuchenne na wymiar?**\
 Publikacja na temat wykonywania mebli kuchennych na wymiar\
-https://dsk-projekt.sklep.pl/pl/p/Poradnik-Jak-zrobic-meble-kuchenne-na-wymiar-KSIAZKA-DRUKOWANA/51)
+[link](https://dsk-projekt.sklep.pl/pl/p/Poradnik-Jak-zrobic-meble-kuchenne-na-wymiar-KSIAZKA-DRUKOWANA/51)
 
 **Jak zrobić szafę na wymiar?**\
 Publikacja na temat wykonywania szafy\
