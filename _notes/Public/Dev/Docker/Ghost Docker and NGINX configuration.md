@@ -1,3 +1,5 @@
+For Ghost, I use port `8001`. If you prefer another, please change it to your preferred port.
+
 ```
 version: '3.1'
 
