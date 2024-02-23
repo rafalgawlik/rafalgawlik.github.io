@@ -1,10 +1,8 @@
-
 ---
-title: Ghost Docker and NGINX configuration
-feed: show
-date: 23-02-2024
+title: Ghost Docker
+feed: hide
+date : 23-02-2024
 ---
-
 
 
 For Ghost, I use port `8001`. If you prefer another, please change it to your preferred port.
